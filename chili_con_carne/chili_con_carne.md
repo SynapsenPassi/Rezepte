@@ -1,16 +1,16 @@
 # Chili con Carne de la Nescher (2 bis 3 Portionen)
 
 ## Zutaten
-* 500g gemischtes Hackfleisch
-* 1 Dose Kidneybohnen
-* 1 Dose Mais
-* Salz
-* Pfeffer
-* 2 Chili-Schoten
-* 700ml passierte Tomaten
 * Öl (Olivenöl / Rapsöl / etc.)
+* 500g gemischtes Hackfleisch
 * 2 Zwiebeln
 * 1 bis 2 Knoblauchzehen
+* 2 Chili-Schoten
+* Salz
+* Pfeffer
+* 700ml passierte Tomaten
+* 1 Dose Kidneybohnen
+* 1 Dose Mais
 
 ## Werkzeugkasten
 * 1Topf
