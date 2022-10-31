@@ -33,4 +33,5 @@
     * Schüssel mit Kidneybohnen
 8. Die beiden Schüsseln werden nach den 10 Minuten mit hinzugegeben und etwa 2 Minuten mit gekocht. 
 
-## Bilder
+## Resultat
+![](./img/finished.png)
