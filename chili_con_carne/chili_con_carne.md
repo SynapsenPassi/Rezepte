@@ -19,6 +19,9 @@
 * 2 Schüsseln
 
 ## Zubereitung
+> Für die Zubereitung ist das kurze [Video](https://www.youtube.com/watch?v=EEdBU64dYzw) von [Steffen Henssler](https://de.wikipedia.org/wiki/Steffen_Henssler) ratsam.
+<br>
+
 1. Das gemischte Hackfleisch in den Topf, in welchem sich 2 EL Öl befinden, mit dazugeben.
 2. Während das Hackfleisch brät:
     * Die Zwiebeln in kleine Stücken schneiden.
