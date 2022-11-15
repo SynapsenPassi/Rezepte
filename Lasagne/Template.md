@@ -14,4 +14,27 @@ Hier werden wenige allgemeine Sätze zum Rezept geschrieben, wie zum Beispiel "D
 
 Hier werden die einzelnen Zutaten hinterlegt. 
 
+&nbsp;
+
+---
+
+## Werkzeugkasten:
+
+Hier werden die benötigt Werkzeuge hinterlegt. 
+
+&nbsp;
+
+---
+## Durchführung:
+
+Hier werden die Arbeitsschritte hinterlegt.
+
+&nbsp;
+
+---
+## Bilder/Videos:
+
+Hier können Bilder und Videos hinterlegt werden.  
+
+
 
