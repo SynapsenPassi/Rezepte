@@ -1,4 +1,4 @@
-# Chili con Carne de la Nescher (2 bis 3 Portionen)
+# Chili con Carne de la Neeescher (2 bis 3 Portionen)
 
 ## Zutaten
 * Öl (Olivenöl / Rapsöl / etc.)
