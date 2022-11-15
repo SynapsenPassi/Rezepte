@@ -1,4 +1,4 @@
-# Lasagne Perfekt beschrieben  <!-- Besser Überschrift finden. -->
+# Lasagne perfekt beschrieben  <!-- Besser Überschrift finden. -->
 
 ## Zutaten:
 * passierte Tomaten (500 Gramm)
