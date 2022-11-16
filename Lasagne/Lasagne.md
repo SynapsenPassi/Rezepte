@@ -1,22 +1,23 @@
 # Lasagne perfekt beschrieben  <!-- Besser Überschrift finden. -->
 
 ## Zutaten:
-* passierte Tomaten (500 Gramm)
-* Hackfleisch (400 Gramm)
-* Zwiebel (Menge: 2)
-* Knoblauch (Zehen: 3)
-* Marmelade
-* Cream Fresh (Becher: 1)
+* [passierte Tomaten](https://shop.rewe.de/p/pomito-passierte-tomaten-500g/8280040?source=mc) (500 Gramm)
+* Schweine Hackfleisch mit Knoblauch (400 Gramm)
+* rote Speisezwiebel (Menge: 2 a 83 Gramm)
+* Knoblauch (Zehen: 3 a 5 Gramm)
+* Marmelade (10 Gramm) 
+* Cream Fresh (Becher: 1 a 150 Gramm)
 * Lasagne Platten
-* Gewürze
+* Gewürze (Meersalz, schwarzer Pfeffer, Paprika Edelsüß, Paprika Rosenscharf, Chilli-Gewürz, Cayenne-Pfeffer)
+* Kräuter (Italienische Kräuter Gewürzmischung)  
 * Sana
-* Reibekäse (Tüten: 2)
+* Reibekäse (Tüten: 2 a 150 Gramm)
 
 ## Werkzeugkasten:
-* Messer
-* Auflaufform
-* Topf
-* Brett
+* Küchenmesser (Klingenlänge: 7 Zentimeter)
+* Auflaufform 
+* Kochtopf (Fassungsvermögen: 2,5 Liter)
+* Schneide Brett (Empfohlen aus Holz)
 
 ## Zubereitung: 
 
